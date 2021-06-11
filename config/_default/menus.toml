@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Docs"
-  url = "/docs/价值/introduction/"
+  url = "/docs/价值/序/"
   weight = 10
 
 [[main]]
