@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://v2inv.com/sitemap.xml
