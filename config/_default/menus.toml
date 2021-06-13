@@ -2,17 +2,29 @@
   name = "价值"
   weight = 10
   identifier = "价值"
-  url = "/docs/价值/"
+  url = "/docs/1价值/"
 
 [[docs]]
   name = "投资哲学"
-  weight = 60
-  identifier = "投资哲学"
-  url = "/docs/投资哲学/"
+  weight = 20
+  identifier = "2投资哲学"
+  url = "/docs/2投资哲学/"
+
+[[docs]]
+  name = "创新框架"
+  weight = 30
+  identifier = "3创新框架"
+  url = "/docs/3创新框架/"
+
+[[docs]]
+  name = "后记"
+  weight = 40
+  identifier = "4后记"
+  url = "/docs/4后记/"
 
 [[main]]
   name = "Docs"
-  url = "/docs/价值/序/"
+  url = "/docs/1价值/序/"
   weight = 10
 
 [[main]]
