@@ -100,7 +100,7 @@ $border-color:                $gray-200;
 // Font, line-height, and color for body text, headings, and more.
 
 // stylelint-disable value-keyword-case
-$font-family-sans-serif:      -apple-system, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "Microsoft Yahei", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-sans-serif:      -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $font-family-monospace:       sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
 $font-family-base:            $font-family-sans-serif;
 // stylelint-enable value-keyword-case
@@ -114,9 +114,9 @@ $font-size-sm:                $font-size-base * 0.875;
 $line-height-base:            1.5;
 
 $headings-font-family:        null;
-$headings-font-weight:        600;
+$headings-font-weight:        700;
 
-$lead-font-weight:            200;
+$lead-font-weight:            400;
 
 // Spacing
 //
@@ -146,7 +146,7 @@ $card-border-color:                 $gray-200;
 // Define alert colors, border radius, and padding.
 
 $alert-padding-y:                   $spacer;
-$alert-padding-x:                   $spacer * 1.0;
+$alert-padding-x:                   $spacer * 1.5;
 $alert-margin-bottom:               0;
 $alert-border-radius:               0;
 $alert-link-font-weight:            $headings-font-weight;
